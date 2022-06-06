@@ -13,3 +13,8 @@ The Home Page consists of:-
 - Making Admin role
 - Deleting Data
 - Updating data
+
+## Admin Credentials:-
+
+- email : sagar@gmail.com
+- password : mnbvcxz123
